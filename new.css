@@ -1,0 +1,156 @@
+@charset "utf-8";
+body {
+	
+	margin: 0px;
+	padding: 0px;
+}
+#maincontainer {
+	width: 100%;
+}
+#header {
+	float: left;
+	height: 100px;
+	width: 100%;
+	background-color: #A0A0A0;
+}
+#headerinner {
+	
+	background-color: #A0A0A0;
+	height: 100px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#logo {
+	height: 90px;
+	width: 100px;
+	float: left;
+	
+		
+}
+#logotxt {
+	width: 500px;
+	height: 50px;
+	float: left;
+	margin top: 20px;
+	margin left: 200px;
+	padding: 10px;
+	
+}
+#nav {
+	color: #0FF;
+	float: right;
+	text-decoration: none;
+	height: 100px;
+	width: 100%;
+	background-color: #0FF;
+	
+}
+
+#nav ul li {
+	float: right;
+	margin-left: 25px;
+	list-style-type: none;
+	border-top-width: thick;
+	border-top-color: #C33;
+	border-right-color: #3F3;
+	border-bottom-color: #63C;
+	background-color: #999;
+}
+#logotxt marquee h1 {
+	color: #F00;
+}
+
+#banner{
+	height: 200px;
+	width: 100%;
+	background-image: ;
+	float: left;
+	opacity: 1;
+	background-image: url(../anjitha/Untitled.png);
+}
+
+#navinner {
+	background-color: #0FF;
+	height: 80px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#contant h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #C3C;
+	text-align: center;
+}
+#body {
+	float: left;
+	width: 100%;
+}
+#bodyinner {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#body_upper {
+	float: left;
+	height: 300px;
+	width: 100%;
+}
+#contant form input[type="text"] {
+	height: 25px;
+	width: 355px;
+	margin-top: 25px;
+	margin-left: 10px;
+}
+#contant form input[type="button"] {
+	height: 25px;
+	width: 160px;
+	margin-top: 25px;
+	margin-left: 100px;
+}
+
+
+
+
+#contant {
+	
+	float: left;
+	width: 400px;
+	font-style: italic;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 15px;
+	color: #F00;
+	background-color: #6FC;
+	margin-top: 10px;
+	text-align: justify;
+	padding: 5px;
+	margin-left: 20px;
+	height: 300px;
+}
+#contant2 ol {
+	color: #6F3;
+	text-decoration: underline;
+}
+#contant2 ul li {
+	color: #63C;
+}
+
+
+#contant2 {
+	width: 100%;
+	font-style: italic;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 15px;
+	color: #F00;
+	background-color: #C9C;
+	text-align: justify;
+	padding: 0px;
+	float: left;
+	margin-top: 10px;
+	height: 200px;
+}
+
+#nav #navinner ul {
+	color: #333;
+	
+}
